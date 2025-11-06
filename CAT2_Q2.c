@@ -3,7 +3,7 @@ Name: Erick Mburu
 Reg: PA106/G/28729/25
 Desc: Question two
 */
-int main(){ 
+#include <stdio.h> 
 
 float hours
 
